@@ -10,16 +10,16 @@ return {
 	lang = 'en',
 	antisquig = false,
 	cli_port = 4567,
-	admin = 00000000,
-	admin_name = 'John Smith',
+	admin = 160320079,
+	admin_name = 'Mr.exe',
 	log_chat = nil,
 	about_text = [[
-I am otouto, the plugin-wielding, multi-purpose Telegram bot written by topkecleon.
+I am jani, the plugin-wielding, multi-purpose Telegram bot written by blackHat™.
 
 Send /help to get started.
 
 Join my channel for news about updates!
-telegram.me/otouto
+telegram.me/Jani_News
 ]]	,
 	errors = {
 		connection = 'Connection error.',
@@ -61,9 +61,9 @@ telegram.me/otouto
 	},
 	moderation = {
 		admins = {
-			['00000000'] = 'You'
+			['160320079'] = 'Mr.exe'
 		},
-		admin_group = -00000000,
+		admin_group = -970023061,
 		realm_name = 'My Realm'
 	},
 	plugins = {
