@@ -10,11 +10,11 @@ return {
 	lang = 'en',
 	antisquig = false,
 	cli_port = 4567,
-	admin = 160320079,
-	admin_name = 'Mr.exe',
+	admin = 131218437,
+	admin_name = '🎩™',
 	log_chat = nil,
 	about_text = [[
-I am jani, the plugin-wielding, multi-purpose Telegram bot written by blackHat™.
+I am jani, the plugin-wielding, multi-purpose Telegram bot written by 🎩blackHat™🎩.
 
 Send /help to get started.
 
@@ -61,9 +61,9 @@ telegram.me/Jani_News
 	},
 	moderation = {
 		admins = {
-			['160320079'] = 'Mr.exe'
+			['131218437'] = '🎩™'
 		},
-		admin_group = -970023061,
+		admin_group = -734812131,
 		realm_name = 'My Realm'
 	},
 	plugins = {
